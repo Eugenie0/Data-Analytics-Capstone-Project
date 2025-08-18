@@ -16,10 +16,6 @@
 - [Key findings & interpretation (deep insights)](#key-findings--interpretation-deep-insights)  
 - [Actionable recommendations](#actionable-recommendations)  
 - [How to reproduce / run notebooks](#how-to-reproduce--run-notebooks)  
-- [Suggested follow-up analyses & SQL / code snippets](#suggested-follow-up-analyses--sql--code-snippets)  
-- [Repository structure](#repository-structure)  
-- [Contributing](#contributing)  
-- [License & contact](#license--contact)
 
 ---
 
