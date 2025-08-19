@@ -31,6 +31,9 @@ This project performs a data-driven analysis of the New York housing market usin
 **High-level outcome**
 - A set of visual and statistical analyses that explain price variation across space and time, identify leading market indicators (inventory, months_of_supply), and quantify the role of usable space (bedrooms & bathrooms) vs location.
 
+**Project Website**
+URL: https://nyc-housing-market-analysis.lovable.app
+
 ---
 
 ## Key research questions
